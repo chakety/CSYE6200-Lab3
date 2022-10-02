@@ -2,7 +2,7 @@
 **Problem1:**
 
 How to solve:
-  - To identify a card number’s validation, three parts that need to be checked: 
+  To identify a card number’s validation, three parts that need to be checked: 
   - The size of the card number should be between 13 and 16.
   - The prefix should match with 4, 5,6,37 for different bank types.
   - Pass the Luhn check or the Mod 10 check.
